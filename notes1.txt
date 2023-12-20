@@ -1,0 +1,6 @@
+installed on 19/12/2023
+
+jdk 18
+intellij idea
+git bash
+maven
