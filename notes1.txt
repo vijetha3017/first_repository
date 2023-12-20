@@ -4,3 +4,10 @@ jdk 18
 intellij idea
 git bash
 maven
+
+create an account in github, create a repository 
+first_repository and data in it
+
+git init
+git add .
+git commit -m "msg"
